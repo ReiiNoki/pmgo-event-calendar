@@ -49,7 +49,10 @@ def save_events_to_ics(events: List[Dict], output_file: str = output_file) -> No
         try:
             e = Event()
             e.name = event.get('name', 'No Title')
-            e.begin = event.get('start')
+            begin = event.get('start')
+            if not begin:
+                continue
+            e.begin = begin
             e.end = event.get('end')
             e.uid = event_uid
             e.description = f"Detail in LeekDuck: {event.get('detail', 'none')}"
