@@ -1,0 +1,47 @@
+.ipynb
+.ipynb_checkpoints/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+.env
+
+# Jupyter Notebook
+# Ignore all notebooks and checkpoint folders
+*.ipynb
+.ipynb_checkpoints/
+
+# Editor directories and files
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Pytest
+.pytest_cache/
+
+# Optional: local secrets or credentials
+# .secrets/   # uncomment if you use a secrets folder
