@@ -1,0 +1,58 @@
+name: Auto Update Calendar
+
+# 触发机制
+on:
+  schedule:
+    # 每天 UTC 时间 00:00 运行 (相当于北京/台北时间 08:00，日本时间 09:00)
+    - cron: '0 0 * * *'
+  # 允许您手动点击按钮立即运行 (用于测试)
+  workflow_dispatch:
+
+# 权限设置：允许 Action 修改仓库内容 (非常重要！)
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. 下载仓库代码
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      # 2. 安装 Python 环境
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      # 3. 安装依赖库
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      # 4. 运行您的脚本
+      - name: Run Scraper
+        run: python main.py
+        # 确保 main.py 会在当前目录生成一个叫 events.ics 的文件
+
+      # 5. 提交并推送更改 (如果有变化)
+      - name: Commit and Push
+        run: |
+          # 配置 git 用户信息 (机器人)
+          git config --global user.name "GitHub Action Bot"
+          git config --global user.email "action@github.com"
+          
+          # 添加生成的文件
+          git add events.ics
+          
+          # 检查是否有变化
+          # 如果 LeekDuck 没更新，文件没变，就不提交，避免报错
+          if git diff --staged --quiet; then
+            echo "No changes to commit. Calendar is up to date."
+          else
+            git commit -m "Auto-update calendar: $(date -u)"
+            git push
+          fi
