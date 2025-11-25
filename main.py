@@ -1,3 +1,4 @@
+import os
 import requests
 import hashlib
 
@@ -26,8 +27,9 @@ def get_events() -> List[Dict]:
             start = data.get("data-event-start-date-check")
             end = data.get("data-event-end-date")
             event = wrapper.find("div", class_="event-text").find("h2").text.strip()
-
+            uid = generate_uid(event, start)
             events.append({
+                "uid": uid,
                 "name": event,
                 "start": start,
                 "end": end,
@@ -43,9 +45,25 @@ def generate_uid(event_name: str, start_time: str) -> str:
     return hashlib.md5(raw_string.encode('utf-8')).hexdigest() + "@pmgo-event-calendar"
 
 def save_events_to_ics(events: List[Dict], output_file: str = output_file) -> None:
-    cal = Calendar()
+
+    if os.path.exists(output_file):
+        try:
+            with open(output_file, 'r', encoding='utf-8') as f:
+                old_content = f.read()
+            cal = Calendar(old_content) # read old calendar
+            print(f"📖 Old calendar read, there are {len(cal.events)} events")
+        except:
+            print("⚠️ Failed to read old calendar, creating a new one.")
+            cal = Calendar()
+    else:
+        cal = Calendar()
+
+    existing_uids = set(e.uid for e in cal.events)
+
     for event in events:
-        event_uid = generate_uid(event["name"], event["start"])
+        event_uid = event.get('uid')
+        if event_uid in existing_uids:
+            continue  # Skip duplicate
         try:
             e = Event()
             e.name = event.get('name', 'No Title')
