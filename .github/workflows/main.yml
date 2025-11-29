@@ -35,6 +35,8 @@ jobs:
 
       # 4. 运行您的脚本
       - name: Run Scraper
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python main.py
         # 确保 main.py 会在当前目录生成一个叫 events.ics 的文件
 
