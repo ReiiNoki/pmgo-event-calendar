@@ -1,1 +1,809 @@
-
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/pokemonspotlighthour2025-12-16/
+DTEND:20251217T020000Z
+DTSTART:20251217T010000Z
+SUMMARY:Mienfoo Spotlight Hour
+UID:8b71029d78d5d342f56ae594fe023ded@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/winter-weekend-2025/
+DTEND:20251229T040000Z
+DTSTART:20251227T180000Z
+SUMMARY:Winter Weekend
+UID:dec741ded7c2ae1cf3e1c13c31d6a697@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/pokemonspotlighthour2025-12-02/
+DTEND:20251203T020000Z
+DTSTART:20251203T010000Z
+SUMMARY:Cranidos Spotlight Hour
+UID:3087bf1f6d4324369a8bbb3ecbd13c7e@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/raidhour20251224/
+DTEND:20251225T020000Z
+DTSTART:20251225T010000Z
+SUMMARY:Zekrom Raid Hour
+UID:7379638151a9ca7c46b4c88eb9b741a1@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/well-armed-2025/
+DTEND:20251217T040000Z
+DTSTART:20251211T180000Z
+SUMMARY:Well Armed
+UID:b7570edfd098a581aa3a3e71fdf83d57@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/gbl-precious-paths_great-league_holiday-cup-ultra-league-edition/
+DTEND:20251230T210000Z
+DTSTART:20251223T210000Z
+SUMMARY:Holiday Cup: Ultra League Edition | Precious Paths
+UID:22b1af5b48b6de037bbc94dc9547970c@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/gbl-precious-paths_great-league_ultra-premier/
+DTEND:20260127T210000Z
+DTSTART:20260120T210000Z
+SUMMARY:Ultra Premier | Precious Paths
+UID:862e7bd6b56e1b9fc5532ecbccb3d4c8@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/gbl-precious-paths_great-league_ultra-league_master-league-split-1/
+DTEND:20251209T210000Z
+DTSTART:20251202T210000Z
+SUMMARY:Great League | Precious Paths
+UID:571fe9a6475cd59f7155984a60995e49@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/raid-day-january-2026/
+DTEND:20260111T010000Z
+DTSTART:20260110T220000Z
+SUMMARY:Raid Day
+UID:1a7671d19b5988bdeeb837f232229b28@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/pokemonspotlighthour2025-12-30/
+DTEND:20251231T020000Z
+DTSTART:20251231T010000Z
+SUMMARY:Delibird Spotlight Hour
+UID:c7f5479d1ccfd8473a6e5c22db078880@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/gbl-precious-paths_master-premier_retro-cup-great-league-edition/
+DTEND:20260120T210000Z
+DTSTART:20260113T210000Z
+SUMMARY:Retro Cup: Great League Edition | Precious Paths
+UID:dda1b2c3f3c3dca5239e4c273a84b84c@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/trade-days-tales-of-transformation/
+DTEND:20251110T075959Z
+DTSTART:20251109T080000Z
+SUMMARY:Trade Days | Tales of Transformation (Sunday 10)
+UID:3b9fb0c0c07c9978515d1cd9ebe2ca62@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/zekrom-in-5-star-raid-battles-december-2025/
+DTEND:20251231T180000Z
+DTSTART:20251222T180000Z
+SUMMARY:Zekrom in 5-star Raid Battles
+UID:7a9047a04e1a29d172e98f25f56fa2b1@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/gbl-precious-paths_great-league_ultra-league_master-league-split-1/
+DTEND:20251209T210000Z
+DTSTART:20251202T210000Z
+SUMMARY:Ultra League | Precious Paths
+UID:7a1ffe4c5f10f974eb2474b764caf5d7@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/go-pass-november-2025/
+DTEND:20251202T170000Z
+DTSTART:20251104T170000Z
+SUMMARY:GO Pass: November
+UID:2b5fabfdd97f0eb025880269f07564c5@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/pokemon-go-city-safari-miami-2025/
+DTEND:20251214T230000Z
+DTSTART:20251214T150000Z
+SUMMARY:Miami\, USA - Pokémon GO City Safari (Day 2)
+UID:5d3d4f9dac8087bf72b2a5e95129e62c@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/gbl-precious-paths_great-league_ultra-league_master-league-split-3/
+DTEND:20260203T210000Z
+DTSTART:20260127T210000Z
+SUMMARY:Ultra League | Precious Paths
+UID:9c098d650243bb2fe75386df92b98797@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/raidhour20251210/
+DTEND:20251211T020000Z
+DTSTART:20251211T010000Z
+SUMMARY:Kyurem Raid Hour
+UID:4ba515b885d9326ad283b0d676ce0628@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/shadow-latios-in-shadow-raids-november-december-2025/
+DTEND:20251124T060000Z
+DTSTART:20251122T140000Z
+SUMMARY:Shadow Latios in Shadow Raids (Weekend 4)
+UID:df63416486f8dba9df561112c83e098f@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/gbl-precious-paths_ultra-league_2026-championship-series-cup/
+DTEND:20260210T210000Z
+DTSTART:20260203T210000Z
+SUMMARY:2026 Championship Series Cup | Precious Paths
+UID:3923172fd55fcb1f7283aaf3050c9485@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/shadow-heatran-in-shadow-raids-december-january-2026/
+DTEND:20251222T060000Z
+DTSTART:20251220T140000Z
+SUMMARY:Shadow Heatran in Shadow Raids (Weekend 3)
+UID:c8f38b7ac1c5e8685f4aa22bf75caf4f@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/research-day-december-2025/
+DTEND:20251221T010000Z
+DTSTART:20251220T220000Z
+SUMMARY:Research Day
+UID:5eee7a8567fd56d1eb4044f3824fadfd@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/winter-holiday-part-1-2025/
+DTEND:20251225T040000Z
+DTSTART:20251218T180000Z
+SUMMARY:Winter Holiday Part 1
+UID:90b7f42affbe92a551e7d875b94b4189@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/shadow-latios-in-shadow-raids-november-december-2025/
+DTEND:20251201T060000Z
+DTSTART:20251129T140000Z
+SUMMARY:Shadow Latios in Shadow Raids (Weekend 5)
+UID:acaa5b6c813c05ac298649fde9676f83@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/gbl-precious-paths_great-league_love-cup-great-league-edition/
+DTEND:20260224T210000Z
+DTSTART:20260217T210000Z
+SUMMARY:Love Cup: Great League Edition | Precious Paths
+UID:292fb0fe4c8f47d2e9f062c184a6e9be@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/max-mondays-2025-12-29/
+DTEND:20251230T020000Z
+DTSTART:20251230T010000Z
+SUMMARY:Dynamax Omanyte during Max Monday
+UID:b39def6e151996071bc0c2a723d5e674@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/gbl-precious-paths_great-league_love-cup-great-league-edition/
+DTEND:20260224T210000Z
+DTSTART:20260217T210000Z
+SUMMARY:Great League | Precious Paths
+UID:3f033dcf63bfc768d13318e78669d4d6@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/journey-to-paldea/
+DTEND:20251210T040000Z
+DTSTART:20251202T180000Z
+SUMMARY:Journey to Paldea
+UID:bca7d792f41fd243269c5d863250a462@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/trade-days-tales-of-transformation/
+DTEND:20250915T075959Z
+DTSTART:20250914T080000Z
+SUMMARY:Trade Days | Tales of Transformation (Sunday 2)
+UID:2d0ed71b3fe19768804d0a1fe421d12c@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/mega-aerodactyl-medicham-garchomp-in-mega-raids-november-december-2025/
+DTEND:20251204T180000Z
+DTSTART:20251125T180000Z
+SUMMARY:Mega Aerodactyl\, Mega Medicham\, and Mega Garchomp in Mega Raids
+UID:c03f6e9ef55df2bf6c7239092028d9f3@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/gbl-tales-of-transformation_catch-cup-tales-of-transformation-great-edition_ultra-league_master-league/
+DTEND:20251202T210000Z
+DTSTART:20251125T210000Z
+SUMMARY:Master League | Tales of Transformation
+UID:2c129ebadccacc018f630425afec33a2@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/gbl-precious-paths_master-league_holiday-cup-great-league-edition/
+DTEND:20251223T210000Z
+DTSTART:20251216T210000Z
+SUMMARY:Holiday Cup: Great League Edition | Precious Paths
+UID:9bd6c1ae80f4464657d10f42efa139da@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/go-battle-week-precious-paths/
+DTEND:20251209T075900Z
+DTSTART:20251204T080000Z
+SUMMARY:GO Battle Week: Precious Paths
+UID:9aaabd85d4488af4af6e6dc704911faa@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/max-battle-day-february-2026/
+DTEND:20260216T010000Z
+DTSTART:20260215T220000Z
+SUMMARY:Max Battle Day
+UID:30eec6745e7f8fdff820c443c4cfe214@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/trade-days-tales-of-transformation/
+DTEND:20250908T075959Z
+DTSTART:20250907T080000Z
+SUMMARY:Trade Days | Tales of Transformation (Sunday 1)
+UID:05191ef0768244c4eae0c91226474895@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/cobalion-terrakion-virizion-in-5-star-raid-battles-november-december-2025/
+DTEND:20251127T020000Z
+DTSTART:20251127T010000Z
+SUMMARY:Cobalion\, Terrakion\, and Virizion Raid Hour (November 26)
+UID:60fac8a000aa7afa84dc69be7b712ce4@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/gbl-precious-paths_great-league_ultra-league_master-league-split-1/
+DTEND:20251209T210000Z
+DTSTART:20251202T210000Z
+SUMMARY:Master League | Precious Paths
+UID:f98d5606d89000a5d8e5a6a787c907a6@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/shadow-latios-in-shadow-raids-november-december-2025/
+DTEND:20251103T060000Z
+DTSTART:20251102T140000Z
+SUMMARY:Shadow Latios in Shadow Raids (Weekend 1)
+UID:b2ce085ceac576b52431b17ebdc27c96@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/gbl-tales-of-transformation_catch-cup-tales-of-transformation-great-edition_ultra-league_master-league/
+DTEND:20251202T210000Z
+DTSTART:20251125T210000Z
+SUMMARY:Ultra League | Tales of Transformation
+UID:ebe1050bb6f4ecdfad81138b742470ab@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/pokemon-go-city-safari-miami-2025/
+DTEND:20251213T230000Z
+DTSTART:20251213T150000Z
+SUMMARY:Miami\, USA - Pokémon GO City Safari (Day 1)
+UID:3e94a213dcb0785430038609b7650b89@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/final-justice-2025/
+DTEND:20251201T040000Z
+DTSTART:20251125T180000Z
+SUMMARY:Final Justice
+UID:4b4c65fe9fc93ac04d5830b0cb1a3dc2@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/catch-mastery-day-february-2026/
+DTEND:20260208T040000Z
+DTSTART:20260207T180000Z
+SUMMARY:Catch Mastery Day
+UID:099ad1aa34102e7c3b8cc6bdbebc5a10@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/winter-holiday-part-2-2025/
+DTEND:20251230T040000Z
+DTSTART:20251224T180000Z
+SUMMARY:Winter Holiday Part 2
+UID:b5314349f3906c590882c68e15f35dc7@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/pokemon-go-tour-kalos-los-angeles-2026/
+DTEND:20260223T010000Z
+DTSTART:20260220T170000Z
+SUMMARY:Pokémon GO Tour: Kalos - Los Angeles 2026
+UID:b28d297bd858bda1fd154f29bf12701f@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/pokemon-go-city-safari-buenos-aires-2025/
+DTEND:20251213T210000Z
+DTSTART:20251213T130000Z
+SUMMARY:Buenos Aires\, Argentina - Pokémon GO City Safari (Day 1)
+UID:26ed8b741d309419a2b3f2ddff538c8e@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/gbl-precious-paths_master-league_2026-championship-series-cup/
+DTEND:20260217T210000Z
+DTSTART:20260210T210000Z
+SUMMARY:Master League | Precious Paths
+UID:9d10b5df232a4a3a16826aeca5c8d165@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/shadow-heatran-in-shadow-raids-december-january-2026/
+DTEND:20251215T060000Z
+DTSTART:20251213T140000Z
+SUMMARY:Shadow Heatran in Shadow Raids (Weekend 2)
+UID:c3014c7969b842a8782d2a22922f73b9@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/mega-glalie-in-mega-raids-december-2025/
+DTEND:20251231T180000Z
+DTSTART:20251222T180000Z
+SUMMARY:Mega Glalie in Mega Raids
+UID:4641e9ed10dfd75efebb11548b6d781a@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/trade-days-tales-of-transformation/
+DTEND:20251020T075959Z
+DTSTART:20251019T080000Z
+SUMMARY:Trade Days | Tales of Transformation (Sunday 7)
+UID:4423b4a843960a9170ab33e53bfbc53f@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/gbl-precious-paths_great-league_ultra-league_master-league-split-2/
+DTEND:20260106T210000Z
+DTSTART:20251230T210000Z
+SUMMARY:Ultra League | Precious Paths
+UID:7da8b6f903a4e7cc67d0a5f90ffc78e8@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/max-battle-day-december-2025/
+DTEND:20251215T010000Z
+DTSTART:20251214T220000Z
+SUMMARY:Max Battle Day
+UID:7ee1756294800fcca6530bf8627ed780@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/trade-days-tales-of-transformation/
+DTEND:20251103T075959Z
+DTSTART:20251102T080000Z
+SUMMARY:Trade Days | Tales of Transformation (Sunday 9)
+UID:b6d42fe847328fae6e139bd7c95b9bcc@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/raidhour20251217/
+DTEND:20251218T020000Z
+DTSTART:20251218T010000Z
+SUMMARY:Reshiram Raid Hour
+UID:d55ba989495292841ee8862b3cddcc20@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/pokemonspotlighthour2025-12-09/
+DTEND:20251210T020000Z
+DTSTART:20251210T010000Z
+SUMMARY:Shieldon Spotlight Hour
+UID:9fbefdf63a4bef3f0f13fd6a577ea17e@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/max-battle-weekend-february-2026/
+DTEND:20260202T050000Z
+DTSTART:20260131T140000Z
+SUMMARY:Max Battle Weekend
+UID:f2e19bf3fffb6eeebfd8e26539cedd4c@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/trade-days-tales-of-transformation/
+DTEND:20251006T075959Z
+DTSTART:20251005T080000Z
+SUMMARY:Trade Days | Tales of Transformation (Sunday 5)
+UID:eaa0aa9e4d8e425a57ce1f3ef50c0635@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/december-communityday2025/
+DTEND:20251208T010000Z
+DTSTART:20251207T220000Z
+SUMMARY:December Community Day 2025 (Day 2)
+UID:261594049e3025046fce5809dc0784e7@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/trade-days-tales-of-transformation/
+DTEND:20251013T075959Z
+DTSTART:20251012T080000Z
+SUMMARY:Trade Days | Tales of Transformation (Sunday 6)
+UID:c04462d3ce6fc8a9f7cdc58ebe77c137@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/shadow-raid-day-january-2026/
+DTEND:20260125T010000Z
+DTSTART:20260124T220000Z
+SUMMARY:Shadow Raid Day
+UID:3cae71a90e0bdfdee0824c390b8dbfb3@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/february-communityday2026/
+DTEND:20260202T010000Z
+DTSTART:20260201T220000Z
+SUMMARY:February Community Day
+UID:3ee0eedd741322ad8f605842ddf913ae@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/dynamax-lugia-max-battle-weekend/
+DTEND:20251201T050000Z
+DTSTART:20251129T140000Z
+SUMMARY:Dynamax Lugia Max Battle Weekend
+UID:7d07cf6b7bb0cbcbdb5a37cd767b4837@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/mega-night-pokemon-go-tour-kalos-tainan-2026/
+DTEND:20260222T110000Z
+DTSTART:20260220T090000Z
+SUMMARY:Mega Night at Pokémon GO Tour: Kalos - Tainan 2026
+UID:1c2ceb0cd866d9778c1bc28d793afad1@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/raid-day-february-2026/
+DTEND:20260215T010000Z
+DTSTART:20260214T220000Z
+SUMMARY:Raid Day
+UID:6fb01f27df237a77b4b54f992c55e10d@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/gbl-precious-paths_master-league_2026-championship-series-cup/
+DTEND:20260217T210000Z
+DTSTART:20260210T210000Z
+SUMMARY:2026 Championship Series Cup | Precious Paths
+UID:32c0bce6dcd017605e77456168b549ad@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/gbl-precious-paths_great-league_ultra-league_master-league-split-2/
+DTEND:20260106T210000Z
+DTSTART:20251230T210000Z
+SUMMARY:Great League | Precious Paths
+UID:2b4ca70238acb4af719a5d9a5ebee3c9@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/pokemon-go-city-safari-sydney-2025/
+DTEND:20251214T070000Z
+DTSTART:20251213T230000Z
+SUMMARY:Sydney\, Australia - Pokémon GO City Safari (Day 2)
+UID:7c1dc2060d52c1fe2bcdc5b9265b8fb0@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/trade-days-tales-of-transformation/
+DTEND:20251124T075959Z
+DTSTART:20251123T080000Z
+SUMMARY:Trade Days | Tales of Transformation (Sunday 12)
+UID:8eba0a32a6461db57899daf9a5a1af60@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/gbl-precious-paths_ultra-league_sunshine-cup-great-league-edition/
+DTEND:20260113T210000Z
+DTSTART:20260106T210000Z
+SUMMARY:Ultra League | Precious Paths
+UID:c56953e3136e21c1e18b1e6faff02b17@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/gbl-precious-paths_ultra-league_scroll-cup-great-league-edition/
+DTEND:20251216T210000Z
+DTSTART:20251209T210000Z
+SUMMARY:Ultra League | Precious Paths
+UID:526d164e8471ccfd2aeed85782fbc2d9@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/gbl-precious-paths_great-league_ultra-league_master-league-split-3/
+DTEND:20260203T210000Z
+DTSTART:20260127T210000Z
+SUMMARY:Great League | Precious Paths
+UID:626ca441e8bbba978560259ecbef6b83@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/max-mondays-2025-12-22/
+DTEND:20251223T020000Z
+DTSTART:20251223T010000Z
+SUMMARY:Dynamax Spheal during Max Monday
+UID:cfa1302d1c81a6eb5f3c23c10d80ff9e@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/gbl-precious-paths_ultra-league_scroll-cup-great-league-edition/
+DTEND:20251216T210000Z
+DTSTART:20251209T210000Z
+SUMMARY:Scroll Cup: Great League Edition | Precious Paths
+UID:451011dbd909fac697b753fd1fdca45b@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/january-communityday2026/
+DTEND:20260119T010000Z
+DTSTART:20260118T220000Z
+SUMMARY:January Community Day
+UID:4ddb47bf62d38f6dc2f523880cf4df9b@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/pokemon-go-tour-kalos-global-2026/
+DTEND:20260302T010000Z
+DTSTART:20260228T170000Z
+SUMMARY:Pokémon GO Tour: Kalos - Global 2026
+UID:f17d632861d2a20a60d715d13c16a2ca@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/raidhour20251231/
+DTEND:20260101T020000Z
+DTSTART:20260101T010000Z
+SUMMARY:Blacephalon Raid Hour
+UID:2eaeff45e3babd4e17712299b68266a9@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/trade-days-tales-of-transformation/
+DTEND:20251201T075959Z
+DTSTART:20251130T080000Z
+SUMMARY:Trade Days | Tales of Transformation (Sunday 13)
+UID:9effc5bdf8c2459c73e2232e48984d61@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/cobalion-terrakion-virizion-in-5-star-raid-battles-november-december-2025/
+DTEND:20251204T180000Z
+DTSTART:20251125T180000Z
+SUMMARY:Cobalion\, Terrakion\, and Virizion in 5-star Raid Battles
+UID:8ea491fdf1fc9ee7930332d749d6e077@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/shadow-heatran-in-shadow-raids-december-january-2026/
+DTEND:20251208T060000Z
+DTSTART:20251206T140000Z
+SUMMARY:Shadow Heatran in Shadow Raids (Weekend 1)
+UID:7974e035b2ba5a320379b020587f7d3d@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/gbl-precious-paths_great-league_holiday-cup-ultra-league-edition/
+DTEND:20251230T210000Z
+DTSTART:20251223T210000Z
+SUMMARY:Great League | Precious Paths
+UID:d83d0aed95b250d8813a81286c802e47@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/gbl-precious-paths_ultra-league_sunshine-cup-great-league-edition/
+DTEND:20260113T210000Z
+DTSTART:20260106T210000Z
+SUMMARY:Sunshine Cup: Great League Edition | Precious Paths
+UID:93cba6048f5e71f5f44dfe1422e00721@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/gbl-precious-paths_master-premier_retro-cup-great-league-edition/
+DTEND:20260120T210000Z
+DTSTART:20260113T210000Z
+SUMMARY:Master Premier | Precious Paths
+UID:ac65b79caa81ee6b60235125e4593361@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/shadow-heatran-in-shadow-raids-december-january-2026/
+DTEND:20251229T060000Z
+DTSTART:20251227T140000Z
+SUMMARY:Shadow Heatran in Shadow Raids (Weekend 4)
+UID:45dd1b02890efc5799a442f622caca4e@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/gbl-precious-paths_great-league_ultra-league_master-league-mega-edition/
+DTEND:20260303T210000Z
+DTSTART:20260224T210000Z
+SUMMARY:Great League: Mega Edition | Precious Paths
+UID:aab4f190e636d6e0bea3f170da2029e8@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/new-years-2026/
+DTEND:20260105T040000Z
+DTSTART:20251231T180000Z
+SUMMARY:New Year's 2026
+UID:b59b63dd76ebb4f9cc899567326715ca@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/pokemon-go-tour-kalos-tainan-2026/
+DTEND:20260222T090000Z
+DTSTART:20260220T010000Z
+SUMMARY:Pokémon GO Tour: Kalos - Tainan 2026
+UID:e32cc2b29bb3078066d0f94cc3ce8318@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/max-mondays-2025-12-08/
+DTEND:20251209T020000Z
+DTSTART:20251209T010000Z
+SUMMARY:Dynamax Cryogonal during Max Monday
+UID:a2de400a1759c053205fb5e31e8ff3f8@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/raidhour20251203/
+DTEND:20251204T020000Z
+DTSTART:20251204T010000Z
+SUMMARY:Cobalion\, Terrakion\, and Virizion Raid Hour (December 3)
+UID:4d4bd467b1973e4a4aa4ba2efa346b7b@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/december-communityday2025/
+DTEND:20251207T010000Z
+DTSTART:20251206T220000Z
+SUMMARY:December Community Day 2025 (Day 1)
+UID:0b6281ddd48826e9f7a94b21560c52fa@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/pokemon-showcase-pikipek-lugia/
+DTEND:20251201T180000Z
+DTSTART:20251129T180000Z
+SUMMARY:Pikipek and Lugia PokéStop Showcases
+UID:1a998fce2a23350c6b1c5a492e7cc543@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/mega-abomasnow-in-mega-raids-december-2025/
+DTEND:20251222T180000Z
+DTSTART:20251213T180000Z
+SUMMARY:Mega Abomasnow in Mega Raids
+UID:fe050fadfaadcc5a2fe5d52c09cfc614@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/shadow-latios-in-shadow-raids-november-december-2025/
+DTEND:20251117T060000Z
+DTSTART:20251115T140000Z
+SUMMARY:Shadow Latios in Shadow Raids (Weekend 3)
+UID:7d5e29d84bf1b3992ae6413d8e3295b3@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/max-mondays-2025-12-01/
+DTEND:20251202T020000Z
+DTSTART:20251202T010000Z
+SUMMARY:Dynamax Darumaka during Max Monday
+UID:b91728b31870972914fe2da114e4e893@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/go-pass-december-2025/
+DTEND:20260106T170000Z
+DTSTART:20251202T170000Z
+SUMMARY:GO Pass: December
+UID:f31afdb953b80a58550e04c09bc15d18@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/pokemon-go-city-safari-sydney-2025/
+DTEND:20251213T070000Z
+DTSTART:20251212T230000Z
+SUMMARY:Sydney\, Australia - Pokémon GO City Safari (Day 1)
+UID:4d8c21cdf90c01853787d46bdaa2343a@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/gbl-precious-paths_ultra-league_2026-championship-series-cup/
+DTEND:20260210T210000Z
+DTSTART:20260203T210000Z
+SUMMARY:Ultra League | Precious Paths
+UID:6463052e6aa1a9798aebb880e59de340@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/max-mondays-2025-12-15/
+DTEND:20251216T020000Z
+DTSTART:20251216T010000Z
+SUMMARY:Dynamax Kabuto during Max Monday
+UID:2f6db3658a5ca4637a1e62a452a69921@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/gbl-precious-paths_great-league_ultra-league_master-league-mega-edition/
+DTEND:20260303T210000Z
+DTSTART:20260224T210000Z
+SUMMARY:Master League: Mega Edition | Precious Paths
+UID:91cf2c55c27d97778d56eecee89bb012@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/november-communityday2025/
+DTEND:20251201T010000Z
+DTSTART:20251130T220000Z
+SUMMARY:Pikipek Community Day
+UID:8daa2af88f623538092359d9ea07041f@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/mega-gyarados-in-mega-raids-december-2025/
+DTEND:20251213T180000Z
+DTSTART:20251204T180000Z
+SUMMARY:Mega Gyarados in Mega Raids
+UID:685588b385a7f33354ca996418ecaca3@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/pokemonspotlighthour2025-12-23/
+DTEND:20251224T020000Z
+DTSTART:20251224T010000Z
+SUMMARY:Spheal Spotlight Hour
+UID:0d4ded270b25d3563551555c998c00b8@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/gbl-precious-paths_master-league_holiday-cup-great-league-edition/
+DTEND:20251223T210000Z
+DTSTART:20251216T210000Z
+SUMMARY:Master League | Precious Paths
+UID:5d1e9c98c863485a81e1e5f7327ce902@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/gbl-precious-paths_great-league_ultra-premier/
+DTEND:20260127T210000Z
+DTSTART:20260120T210000Z
+SUMMARY:Great League | Precious Paths
+UID:6014023bde70b4a42c6bfd56cf5c1d9a@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/gbl-tales-of-transformation_catch-cup-tales-of-transformation-great-edition_ultra-league_master-league/
+DTEND:20251202T210000Z
+DTSTART:20251125T210000Z
+SUMMARY:Catch Cup: Tales of Transformation: Great Edition
+UID:5dd1c40d90fa5c3ba298839fe12f42a3@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/gbl-precious-paths_great-league_ultra-league_master-league-split-2/
+DTEND:20260106T210000Z
+DTSTART:20251230T210000Z
+SUMMARY:Master League | Precious Paths
+UID:37199edd47e5daee821929bba0a363ec@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/gbl-precious-paths_great-league_ultra-league_master-league-split-3/
+DTEND:20260203T210000Z
+DTSTART:20260127T210000Z
+SUMMARY:Master League | Precious Paths
+UID:2765a2f19c4a2f6b1a222842510ddf5d@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/trade-days-tales-of-transformation/
+DTEND:20250929T075959Z
+DTSTART:20250928T080000Z
+SUMMARY:Trade Days | Tales of Transformation (Sunday 4)
+UID:137d4f89fe757190b53363c304c5fd1b@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/trade-days-tales-of-transformation/
+DTEND:20251117T075959Z
+DTSTART:20251116T080000Z
+SUMMARY:Trade Days | Tales of Transformation (Sunday 11)
+UID:4eefa1c4a28e3e029e98510cb6b3152c@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/kyurem-in-5-star-raid-battles-december-2025/
+DTEND:20251213T180000Z
+DTSTART:20251204T180000Z
+SUMMARY:Kyurem in 5-star Raid Battles
+UID:1f3c7fdcc1518bd8effec49987493f04@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/trade-days-tales-of-transformation/
+DTEND:20250922T075959Z
+DTSTART:20250921T080000Z
+SUMMARY:Trade Days | Tales of Transformation (Sunday 3)
+UID:97996625132cba0cebc234e27251d4f3@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/mega-night-pokemon-go-tour-kalos-los-angeles-2026/
+DTEND:20260223T040000Z
+DTSTART:20260221T020000Z
+SUMMARY:Mega Night at Pokémon GO Tour: Kalos - Los Angeles 2026
+UID:a0732b4d7a2dc561397aaa6a632fb5d4@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/shadow-latios-in-shadow-raids-november-december-2025/
+DTEND:20251110T060000Z
+DTSTART:20251108T140000Z
+SUMMARY:Shadow Latios in Shadow Raids (Weekend 2)
+UID:cd8347c7330f668e41772842c4d3c64d@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/gbl-precious-paths_great-league_ultra-league_master-league-mega-edition/
+DTEND:20260303T210000Z
+DTSTART:20260224T210000Z
+SUMMARY:Ultra League: Mega Edition | Precious Paths
+UID:bdefd460b871397c13c5b9dd8d61b615@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/reshiram-in-5-star-raid-battles-december-2025/
+DTEND:20251222T180000Z
+DTSTART:20251213T180000Z
+SUMMARY:Reshiram in 5-star Raid Battles
+UID:e79d37f2d597df62461f85a2b8cdb476@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/trade-days-tales-of-transformation/
+DTEND:20251027T075959Z
+DTSTART:20251026T080000Z
+SUMMARY:Trade Days | Tales of Transformation (Sunday 8)
+UID:a1670a1b36566003ea3e1e75f8bf38e6@pmgo-event-calendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detail in LeekDuck: https://leekduck.com/events/pokemon-go-city-safari-buenos-aires-2025/
+DTEND:20251214T210000Z
+DTSTART:20251214T130000Z
+SUMMARY:Buenos Aires\, Argentina - Pokémon GO City Safari (Day 2)
+UID:96645e484dcd4d6fb6a24b2a6c2b28fc@pmgo-event-calendar
+END:VEVENT
+END:VCALENDAR
